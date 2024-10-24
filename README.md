@@ -68,7 +68,7 @@ Click the "Change Quote" button to get a new South Park quote.
 Click the Twitter logo to share the quote on Twitter.
 
 ### Project Structure
-
+```bash
 /src
   ├── /components            # Main component for the quote machine
   └── QuoteMachine.css
@@ -76,6 +76,7 @@ Click the Twitter logo to share the quote on Twitter.
   ├── App.jsx                 # Main app component
   ├── main.jsx                # Entry point
           # CSS styles for the Quote Machine
+```
 
 
           
