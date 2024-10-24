@@ -1,0 +1,33 @@
+body {
+  background-color: blueviolet;
+}
+
+#quote-box {
+  border: 12px solid black;
+  background-color: darkmagenta;
+}
+
+#twitter-logo {
+  width: 40px;
+  margin-left: 350px;
+  bottom: 40px;
+}
+
+#text {
+  color: azure;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#author {
+  color: azure;
+}
+
+h1 {
+  color: azure;
+}
+
+button {
+  background-color: blueviolet;
+  color: azure;
+  border-radius: 50px;
+}
