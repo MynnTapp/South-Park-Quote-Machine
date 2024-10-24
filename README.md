@@ -18,7 +18,8 @@ The **South Park Quote Machine** is a React-based web application that fetches r
 - Provides an option to tweet the current quote.
 
 ## Screenshot
-![Screenshot of the Quote Machine] (![Screenshot (56)](https://github.com/user-attachments/assets/b5948488-3f73-4b4b-a3f3-8c36ee6ae01f)
+![Screenshot of the Quote Machine] (![Screenshot (56)](![Screenshot (56)](https://github.com/user-attachments/assets/9140caa6-7548-467b-b52a-147dfd138170)
+)
 )
 
 ## Technologies Used
